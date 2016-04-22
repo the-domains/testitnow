@@ -2,6 +2,7 @@ name: Testitnow
 favicon: null
 layout_spectrum: 0.40839652181603014
 typography_spectrum: 0.3260210033040494
+title: This is the title
 cta:
   domain: null
   bucket: null
