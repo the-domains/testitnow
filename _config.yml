@@ -1,0 +1,28 @@
+name: Testitnow
+favicon: null
+layout_spectrum: 0.40839652181603014
+typography_spectrum: 0.3260210033040494
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.24010280729271472
+  lightness: 0.039440486347302794
+  saturation: 0.9657238826621324
+  rhythmicContrast: 0.8252592026256025
+purpose: []
